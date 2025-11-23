@@ -1,4 +1,4 @@
-# attendence_system
+# Attendence_system
 Student Attendance Management System
 
 Overview
@@ -96,4 +96,4 @@ Author
 
 Name: Nimish Yadav
 Email: 25BAI11011
-GitHub: [Your GitHub Link]
+GitHub: https://github.com/nimish25bai11011-sudo
